@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{E51464C9-91D1-4BB4-A1C4-26A35224D951}|Default">
+  <MonoDevelop.Ide.ItemProperties.LoanPayment PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ServiceOperation.cs">
+    <Files>
+      <File FileName="Program.cs" Line="34" Column="33" />
+      <File FileName="Category.cs" />
+      <File FileName="Product.cs" />
+      <File FileName="Customer.cs" />
+      <File FileName="Loan.cs" />
+      <File FileName="Enums/LoanStatusType.cs" />
+      <File FileName="Payment.cs" />
+      <File FileName="Enums/PaymentType.cs" />
+      <File FileName="Order.cs" />
+      <File FileName="ServiceOperation.cs" Line="60" Column="31" />
+      <File FileName="Company.cs" />
+      <File FileName="OrderLine.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LoanPayment" expanded="True">
+            <Node name="LoanPayment">
+              <Node name="ServiceOperation.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
